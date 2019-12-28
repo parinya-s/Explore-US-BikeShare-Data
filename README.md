@@ -8,10 +8,10 @@ Explore US BikeShare Data
 This project uses Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. This will show popular times of travel, popular stations and trip, trip duration, user info.
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+*chicago.csv
+*new_york_city.csv
+*washington.csv
 
 ### Credits
-Data is provided by https://www.motivateco.com/.
-Udacity Nanodegree: Programming for Data Science with Python
+*Data is provided by https://www.motivateco.com/.
+*Udacity Nanodegree: Programming for Data Science with Python
